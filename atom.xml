@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>六分甜の茶</title>
+  <icon>http://example.com/icon.png</icon>
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-01-16T10:37:21.181Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Amai Cya</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/01/16/hello-world/"/>
+    <id>http://example.com/2022/01/16/hello-world/</id>
+    <published>2022-01-16T10:37:21.180Z</published>
+    <updated>2022-01-16T10:37:21.181Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot; data-url=&quot;aHR0cHM6Ly9oZXhvLmlvLw==&quot;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
